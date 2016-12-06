@@ -1,0 +1,14 @@
+{
+  "name": "css-starter-kit",
+  "version": "1.0.0",
+  "description": "css-starter-kit",
+  "main": "css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Evans",
+  "license": "ISC",
+  "dependencies": {
+    "inuitcss": "^6.0.0-beta.4"
+  }
+}
